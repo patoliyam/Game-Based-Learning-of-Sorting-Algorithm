@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 389e50bea7bfadd43bd74f4070640a3c
+timeCreated: 1488563831
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: United Kingdom
+  fontNames:
+  - United Kingdom
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
